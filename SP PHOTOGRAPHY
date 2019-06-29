@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+
+body {background-color: white;}
+</style>
+
+</head>
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body> 
+
+<div class="w3-container w3-green">
+  <h1 style="color:black;">SP PHOTOGRAPHY</h1> 
+  <p style="color:black;">Photography is the process of creating still or moving pictures by recording radiation on a sensitive medium like film or an electonic sensor.</p> 
+</div>
+
+
+<ul>
+     <li>natural</li>
+     <li>fashion</li>
+     <li>food photography</li>     
+</ul>
+
+<P style="font-size:25px;background-color:tomato;text-align:center;">I AM PHOTO EDITOR</P>
+<p style="font-family:courier;font-size:20px;;">Any problem please contacts</p>
+<p id="demo">my contacts nomber-6294933635</p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").style.fontSize = "25px"; 
+  document.getElementById("demo").style.color = "red";
+  document.getElementById("demo").style.backgroundColor = "yellow";        
+}
+</script>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+<hr>
+<img src="https://serving.photos.photobox.com/91249825b0e88f38e7e7b82ccff985b80488e9a41d73c7babf1bc33d431b69b1992e3768.jpg"style="width:300px;height:400px;"><B><ul>yellow flowers during daytime</ul></B>
+<hr>
+<img src="https://serving.photos.photobox.com/5362626592ab768723a7a32f1312cd5f3768ceffd4c51ca1644f476e310c1f4db16ea913.jpg"style="width:800px;height:500px;">
+
+<B><p>We live on the most beautiful planet,Earth which has very clean and attractive vnature full of greenery.nature is our best friend which provides us all the resources to live here. it gives us water to drink,pure aair to breathe,food to eat,land to stay,animals,plants for our other uses,etc for our betterment.we should fully enjoy the nature without disturbing its ecological balance.we should care our nature,make it peaceful,keep it clean and prevent it from the destruction so that we can enjoy our nature forever.nature is a most precious gift given by the god to us to enjoy but not to harm.<p><B> 
+<hr>
+<img src="https://serving.photos.photobox.com/1898526228c2fefef04c9df08416a8447370ba84db8a1b1b33f3455284152550e35264fd.jpg"style="width:400px;height:500px;">
+<B><p>Flower is a modified shoot with condensed axis called thalamus and appendages called floral argans.stamens and carpels represent the essential parts of a flower.</p><B>
+<hr>
+<img src="https://serving.photos.photobox.com/483013157e08fb30c2e33aa848023646e864c4dd06b892532bd6a46dd92d955abfc588a9.jpg"style="width:300px;height:500px;">
+<B><p style="color:red;">Werever you go,whatever you do,I will be right here waiting for you.<br>Whatever it takes,or how my heart breaks,I will be right here waiting for you!<br></p>
+<hr>
+<img src="https://serving.photos.photobox.com/263374159fb2ce7a554935598cde6b90fe5007e7916ec099843345e49e063e8be73f8f47.jpg"style="width:800px;height:400px;">
+<B><p style="color:green;">Nature refers to the physical world and all forms of life species on earth in general.<br>Our natural ecosystem is the community of biotic and abiotic components.<br>the biotic components are the living organisms that also include humans.<p>
+
+
+
+
+
+</body>
+</html>
